@@ -1,0 +1,22 @@
+#box1 {
+    width: 400px;
+    height: 400px;
+    padding: 40px;
+    background-color: rgba(248, 73, 20, 0.795);
+    font-size: larger;
+    box-sizing:content-box; 
+
+    
+}
+
+#box2 {
+    width: 400px;
+    height: 400px;
+    padding: 40px;
+    background-color: rgb(65, 233, 14);
+    box-sizing:content-box; 
+    margin-top: 34px;
+}
+img {
+    width: 400px;
+}
